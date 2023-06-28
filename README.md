@@ -10,11 +10,18 @@
 ## 基本功能的实现
 
 - createStore
+```txt
 传入函数一个函数(set, get, api) => Store
 内部定义函数setStore, getStore, api
 store = initialState(setStore, getStore, api)
+```
+
 - useStore
+
+```txt
 通过use-sync-external-store插件去定义useStore
+```
+
 - use-sync-external-store的原理
 
 ```txt
