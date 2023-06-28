@@ -1,11 +1,11 @@
 # zustand的学习
 
-以下链接
-<https://github.com/pmndrs/zustand/>
-<https://juejin.cn/post/7056568996157456398>
-<https://juejin.cn/post/7178318352174022717>
-<https://github.com/facebook/react/blob/a1c62b8a7635c0bc51e477ba5437df9be5a9e64f/packages/use-sync-external-store/src/useSyncExternalStoreWithSelector.js>
-<https://docs.pmnd.rs/zustand/integrations/persisting-store-data#hydration-and-asynchronous-storages>
+## 以下链接
+- <https://github.com/pmndrs/zustand/>
+- <https://juejin.cn/post/7056568996157456398>
+- <https://juejin.cn/post/7178318352174022717>
+- <https://github.com/facebook/react/blob/a1c62b8a7635c0bc51e477ba5437df9be5a9e64f/packages/use-sync-external-store/src/useSyncExternalStoreWithSelector.js>
+- <https://docs.pmnd.rs/zustand/integrations/persisting-store-data#hydration-and-asynchronous-storages>
 
 ## 基本功能的实现
 
